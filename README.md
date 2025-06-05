@@ -31,3 +31,12 @@ Une fois entraîné :
 Le script contient une fonction `test_valeur_aleatoire()` qui :
 - Affiche une image aléatoire du dataset MNIST.
 - Prédit la valeur du chiffre associé via le modèle entraîné.
+
+### Visualisation des résultats
+
+Précision du modèle sur les données d'entraînement et de test :  
+![Accuracy](images/accuracy.PNG)
+
+Exemple de prédiction pour une image MNIST aléatoire :  
+![Exemple de prédiction](images/result_example.PNG)
+
